@@ -1,13 +1,22 @@
 fileFormatVersion: 2
-guid: 785bc509d777f6d49a1a7a7a0050ebab
+guid: a297a526d66191648ab61ba5c9c12691
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2573902814440416089
-    second: Evil Face_0
+      213: -5490743346865846158
+    second: Radioactive Skeleton_0
   - first:
-      213: 8479619926327446978
-    second: Evil Face_1
+      213: -7831173509534813263
+    second: Radioactive Skeleton_1
+  - first:
+      213: 5672039234937452168
+    second: Radioactive Skeleton_2
+  - first:
+      213: 4105144432486555108
+    second: Radioactive Skeleton_3
+  - first:
+      213: 3166186399743633333
+    second: Radioactive Skeleton_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +112,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Evil Face_0
+      name: Radioactive Skeleton_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
+        x: 119
+        y: 1919
+        width: 1022
+        height: 1322
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +127,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 953691df8f658b320800000000000000
-      internalID: 2573902814440416089
+      spriteID: 278c8396406fcc3b0800000000000000
+      internalID: -5490743346865846158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Evil Face_1
+      name: Radioactive Skeleton_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
+        x: 1319
+        y: 1919
+        width: 1022
+        height: 1322
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,8 +149,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2cd42136569ada570800000000000000
-      internalID: 8479619926327446978
+      spriteID: 1b37ab53f25125390800000000000000
+      internalID: -7831173509534813263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radioactive Skeleton_2
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 1919
+        width: 1022
+        height: 1322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8867686e1a127be40800000000000000
+      internalID: 5672039234937452168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radioactive Skeleton_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 179
+        width: 1022
+        height: 1322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed98028c1768f830800000000000000
+      internalID: 4105144432486555108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radioactive Skeleton_4
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 179
+        width: 1022
+        height: 1322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7646161cd80fb20800000000000000
+      internalID: 3166186399743633333
       vertices: []
       indices: 
       edges: []
@@ -159,8 +234,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Evil Face_0: 2573902814440416089
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
