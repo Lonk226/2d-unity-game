@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Radioactive Skeleton_0: -5490743346865846158
+      Radioactive Skeleton_1: -7831173509534813263
+      Radioactive Skeleton_2: 5672039234937452168
+      Radioactive Skeleton_3: 4105144432486555108
+      Radioactive Skeleton_4: 3166186399743633333
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
