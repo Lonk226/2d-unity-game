@@ -91,7 +91,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -105,7 +105,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -129,7 +129,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -597,7 +597,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      New Piskel (1) 1_0: 502171404882056347
+      New Piskel (1) 1_1: -2051796458817590108
+      New Piskel (1) 1_10: 7506191865002006933
+      New Piskel (1) 1_11: -7343744240405075009
+      New Piskel (1) 1_12: -7948452165707875532
+      New Piskel (1) 1_13: -3501010783340476688
+      New Piskel (1) 1_14: -4650546715333756071
+      New Piskel (1) 1_15: -5795602874346614042
+      New Piskel (1) 1_16: 2545798160219564152
+      New Piskel (1) 1_17: 6648722279944198104
+      New Piskel (1) 1_18: -2370076522953079737
+      New Piskel (1) 1_2: 3136787886784921558
+      New Piskel (1) 1_3: -6909528677317114003
+      New Piskel (1) 1_4: -7319761092718165669
+      New Piskel (1) 1_5: -6281979321936339989
+      New Piskel (1) 1_6: -7396978603928375975
+      New Piskel (1) 1_7: 9096763195516937159
+      New Piskel (1) 1_8: 4707081914985888678
+      New Piskel (1) 1_9: 261760078549187704
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
