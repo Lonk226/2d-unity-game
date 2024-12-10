@@ -3645,6 +3645,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 =======
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -3676,9 +3677,13 @@ Transform:
 >>>>>>> parent of 6e485cd (dfcgvhbjinuhubjn)
 =======
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
 >>>>>>> Stashed changes
 =======
 >>>>>>> parent of 91e63a0 (hi how are you guys?)
+=======
+>>>>>>> parent of 6e485cd (dfcgvhbjinuhubjn)
+>>>>>>> ebafb94220650ae785a4af7c224b964d977234d8
   m_LocalPosition: {x: 1.27, y: -3.06, z: 0}
 >>>>>>> b406f5f1d5611b4ace068afb1f396150bc1da186
   m_LocalScale: {x: 1.2697778, y: 1.0940275, z: 1.0177}
