@@ -1,6 +1,12 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:2d game/Assets/New Physics Material 2D.physicsMaterial2D.meta
 guid: e2b95249fe6bb12498e3e556bba775a2
 NativeFormatImporter:
+========
+guid: a730a2df99020d94c80c1feb0371deac
+folderAsset: yes
+DefaultImporter:
+>>>>>>>> Stashed changes:2d game/Assets/Animation.meta
   externalObjects: {}
   mainObjectFileID: 6200000
   userData: 
