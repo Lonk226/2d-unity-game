@@ -409,8 +409,13 @@ Transform:
   m_GameObject: {fileID: 1774416629}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
+  m_LocalPosition: {x: 0.5916, y: -0.664, z: 0}
+  m_LocalScale: {x: 1.2872, y: 0.9458, z: 1}
+=======
   m_LocalPosition: {x: 0.53, y: -0.45, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+>>>>>>> b406f5f1d5611b4ace068afb1f396150bc1da186
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1727215285}
@@ -3651,6 +3656,7 @@ Transform:
 =======
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 >>>>>>> parent of 2cd184a (Background)
+<<<<<<< HEAD
 =======
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 >>>>>>> parent of 6e485cd (dfcgvhbjinuhubjn)
@@ -3673,15 +3679,13 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD
 >>>>>>> Stashed changes
-<<<<<<< HEAD
 =======
 >>>>>>> parent of 91e63a0 (hi how are you guys?)
 =======
 >>>>>>> parent of 6e485cd (dfcgvhbjinuhubjn)
 >>>>>>> ebafb94220650ae785a4af7c224b964d977234d8
-=======
->>>>>>> parent of 3f13415 (sa)
   m_LocalPosition: {x: 1.27, y: -3.06, z: 0}
+>>>>>>> b406f5f1d5611b4ace068afb1f396150bc1da186
   m_LocalScale: {x: 1.2697778, y: 1.0940275, z: 1.0177}
   m_ConstrainProportionsScale: 0
   m_Children:
