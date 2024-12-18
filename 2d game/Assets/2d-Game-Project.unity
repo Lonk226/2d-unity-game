@@ -282,7 +282,7 @@ GameObject:
   - component: {fileID: 263253035}
   - component: {fileID: 263253034}
   m_Layer: 0
-  m_Name: Grid
+  m_Name: '  '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -479,15 +479,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+<<<<<<< HEAD
 --- !u!95 &824411926
 Animator:
   serializedVersion: 7
+=======
+--- !u!114 &824411926
+MonoBehaviour:
+>>>>>>> bc7a21eff5ffb6378b7ed1817c309b829b7a9067
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 824411921}
   m_Enabled: 1
+<<<<<<< HEAD
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 4facefcb12a3ead47b1ed7e3f39573fc, type: 2}
   m_CullingMode: 0
@@ -501,6 +507,12 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+=======
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11623e7ebe91e2e4fa2a43653501f58b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> bc7a21eff5ffb6378b7ed1817c309b829b7a9067
 --- !u!1 &1029754344
 GameObject:
   m_ObjectHideFlags: 0
